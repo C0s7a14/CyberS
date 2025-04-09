@@ -71,6 +71,42 @@ Hackers have developed advanced techniques to break into systems and steal data.
 
 In the future, cybersecurity will be even more critical. As technology continues to evolve, so will the threats. Developers will create more intelligent systems to detect and prevent attacks before they happen. Everyone must do their part to stay safe online.</p>
       </div>
+      <div className="my-8 border-t border-green-400" />
+      <div className='pt-3 text-lg text-green-400 font-semibold text-center mg-8px'>
+      <h1>Uso do Verbo "Be" nos Tempos Verbais</h1>
+
+<h2>1. Simple Present:</h2>
+<p>O verbo "be" no <strong>Simple Present</strong> é utilizado para indicar estados permanentes ou habituais. Ele é conjugado como <strong>am</strong>, <strong>is</strong> e <strong>are</strong>.</p>
+<ul>
+    <li><strong>I am</strong> happy.</li>
+    <li><strong>She is</strong> a student.</li>
+    <li><strong>They are</strong> friends.</li>
+</ul>
+<br />
+<h2>2. Present Continuous:</h2>
+<p>No <strong>Present Continuous</strong>, o verbo "be" (<strong>am</strong>, <strong>is</strong>, <strong>are</strong>) é usado como verbo auxiliar, seguido pelo verbo principal no gerúndio (com <strong>-ing</strong>). Ele descreve ações que estão acontecendo no momento da fala.</p>
+<ul>
+    <li><strong>I am</strong> studying right now.</li>
+    <li><strong>She is</strong> running at the moment.</li>
+    <li><strong>They are</strong> playing soccer.</li>
+</ul>
+<br />
+<h2>3. Imperatives:</h2>
+<p>O verbo "be" pode ser usado em frases <strong>imperativas</strong> para dar ordens ou instruções. Nesse caso, ele aparece na forma base, sem conjugar. Normalmente, ele aparece em contextos de comandos diretos.</p>
+<ul>
+    <li><strong>Be</strong> quiet!</li>
+    <li><strong>Be</strong> careful!</li>
+    <li><strong>Be</strong> on time!</li>
+</ul>
+<br />
+<h2>4. Simple Past:</h2>
+<p>No <strong>Simple Past</strong>, o verbo "be" é conjugado como <strong>was</strong> (para <strong>I</strong>, <strong>he</strong>, <strong>she</strong>) ou <strong>were</strong> (para <strong>you</strong>, <strong>we</strong>, <strong>they</strong>). Ele é usado para indicar estados ou situações passadas.</p>
+<ul>
+    <li><strong>I was</strong> tired yesterday.</li>
+    <li><strong>She was</strong> at the party.</li>
+    <li><strong>They were</strong> happy after the game.</li>
+</ul>
+      </div>
 
       <div className="my-8 border-t border-green-400" />
 
