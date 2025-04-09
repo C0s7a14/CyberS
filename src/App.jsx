@@ -5,6 +5,27 @@ import { useState } from 'react'
 function App() {
   const questions = [
     {
+      question: "Qual é a principal preocupação mencionada no texto sobre segurança digital?",
+      options: [
+        { id: "A", text: "A) O uso de redes sociais de forma segura." },
+        { id: "B", text: "B) A proteção de sistemas e dados contra ataques cibernéticos." },
+        { id: "C", text: "C) O aumento das compras online." },
+        { id: "D", text: "D) O desenvolvimento de novos dispositivos tecnológicos." },
+      ],
+      answer: "B"
+    },
+      {
+        "question": "Qual das seguintes frases do texto é INCORRETA?",
+        "options": [
+          { "id": "A", "text": "A) A segurança cibernética é essencial para proteger sistemas, redes e programas contra ataques digitais." },
+          { "id": "B", "text": "B) Hackers utilizam técnicas avançadas para invadir sistemas e roubar dados." },
+          { "id": "C", "text": "C) No ano passado, muitas empresas foram atacadas por scams de phishing por telefone." },
+          { "id": "D", "text": "D) As organizações têm investido em sistemas de segurança mais fortes e treinado seus funcionários." },
+          { "id": "E", "text": "E) No futuro, sistemas inteligentes serão criados para detectar e prevenir ataques antes que eles aconteçam." }
+        ],
+        "answer": "C"
+      },
+    {
       question: "Qual é o tempo verbal do verbo is na frase: Cybersecurity is the practice of protecting systems...",
       options: [
         { id: "A", text: "A) Presente simples" },
@@ -37,6 +58,7 @@ function App() {
       ],
       answer: "E"
     }
+    
   ]
 
   const [answers, setAnswers] = useState({})
@@ -71,7 +93,7 @@ Hackers have developed advanced techniques to break into systems and steal data.
 
 In the future, cybersecurity will be even more critical. As technology continues to evolve, so will the threats. Developers will create more intelligent systems to detect and prevent attacks before they happen. Everyone must do their part to stay safe online.</p>
       </div>
-      <div className="my-8 border-t border-green-400" />
+    <div className="my-8 border-t border-green-400" />
       <div className='pt-3 text-lg text-green-400 font-semibold text-center mg-8px'>
       <h1>Uso do Verbo "Be" nos Tempos Verbais</h1>
 
