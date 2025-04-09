@@ -1,4 +1,6 @@
 import { useState } from "react";
+import React from 'react';
+
 
 type Option = {
   id: string;
@@ -14,7 +16,7 @@ export default function Question({ question, options }: QuestionProps) {
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
 
   return (
-    <div className="bg-green-300 shadow-2xl rounded-2xl p-4 mb-6 w-full ">
+    <div className="bg-green-400 shadow-2xl rounded-2xl p-4 mb-6 w-full ">
       <h2 className="text-xl font-bold mb-4">{question}</h2>
       <div className="space-y-2">
         {options.map((option) => (

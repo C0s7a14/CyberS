@@ -51,12 +51,12 @@ function App() {
     <div className="border-t border-green-400 " />
 
       <div className='flex pt-2 justify-center'>
-        <h2 className='text-green-200 font-bold text-4xl'>Cybersecurity in Our Daily Lives</h2>
-        <Boxes className='text-green-200 h-12' />
+        <h2 className='text-green-200 font-bold text-LG '>CYBERSECURITY IN OUR DAILY LIVES</h2>
+        <Boxes className='text-green-200 h-5 ' />
       </div>
 
       <div className='pt-3'>
-        <p className='text-2xl text-green-200 font-semibold'>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information. In today’s world, where people use the internet for banking, shopping, studying, and communicating, cybersecurity has become more important than ever.
+        <p className='text-lg text-green-400 font-semibold text-center'>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information. In today’s world, where people use the internet for banking, shopping, studying, and communicating, cybersecurity has become more important than ever.
 
 Hackers have developed advanced techniques to break into systems and steal data. For example, last year many companies were attacked through email phishing scams. Because of this, organizations have been investing in stronger security systems and training their staff. At the same time, users need to be careful with passwords and suspicious links.
 
@@ -66,13 +66,13 @@ In the future, cybersecurity will be even more critical. As technology continues
 
 
       <div className='pt-5 flex '>
-        <img src="hack.png" alt="" className='h-28' />
-        <h2 className='text-green-200 pt-10 font-bold text-xl'>Poderia ter mais texto, mas como nosso colega marcelo gosta de coisas simples vamos direto para as questões sobre o texto</h2>
+        <img src="hack.png" alt="" className='h-24' />
+        <h2 className='text-green-200 py-10 font-bold text-lg'>Poderia ter mais texto, mas como nosso colega marcelo gosta de coisas simples vamos direto para as questões sobre o texto</h2>
       </div>
 
       <div className="border-t border-green-400 " />
 
-      <div>
+      <div className='pt-5'>
         <h3 className='text-green-200 font-bold text-2xl text-center'>Questões</h3>
       </div>
 
@@ -103,8 +103,8 @@ In the future, cybersecurity will be even more critical. As technology continues
         <div className="border-t border-green-400 " />
 
 
-      <div className='flex pt-32 text-center justify-center'>
-        <h5 className='text-green-200 text-2xl font-bold pt-10'>AQUI CONCLUIMOS NOSSO TRABALHO GOODBYE</h5>
+      <div className='flex pt-5 text-center justify-center'>
+        <h5 className='text-green-200 text-2xl font-bold pt-1'>AQUI CONCLUIMOS NOSSO TRABALHO GOODBYE</h5>
         <img src="elli2.png" alt="" className='h-32' />
       </div>
 
